@@ -130,10 +130,10 @@ This project can scale to:
 
 ## 🔗 Resources & References
 
-• [NITI Aayog AI for Viksit Bharat](https://niti.gov.in)
-• [India's AI Adoption Report 2025](https://indiaai.gov.in)
-• [UNESCO AI & Education Guidelines](https://www.unesco.org)
-• [WHO AI Ethics Framework](https://www.who.int)
+• [NITI Aayog AI for Viksit Bharat](https://niti.gov.in)<br>
+• [India's AI Adoption Report 2025](https://indiaai.gov.in)<br>
+• [UNESCO AI & Education Guidelines](https://www.unesco.org)<br>
+• [WHO AI Ethics Framework](https://www.who.int)<br>
 
 ---
 
